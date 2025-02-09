@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pkprajwal kamardagi
+- 👋 Hi, I’m prajwal kamardagi
 - 📫 How to reach me . prajwalkamaradgi@gmail.com
 <!---
 Pkprajwal04/Pkprajwal04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
